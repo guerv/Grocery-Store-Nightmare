@@ -60,10 +60,8 @@
  * > if player loses all hearts, the player is dead
  * > touching an enemy or enemy projectile causes the player to lose a heart (heart containers stay)
  *
- * All assets were (regrettably) drawn digitally.
+ * All assets were drawn digitally.
  * 
- * --DETAILS--
- * - 
  * 
  * 
  */
@@ -281,7 +279,7 @@ public class MilkMain extends JPanel implements ActionListener, KeyListener
 		lookDir = 1; 
 		
 		//sets current room at start
-		currentRoom = 9;
+		currentRoom = 1;
 
 
 	
