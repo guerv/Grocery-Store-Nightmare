@@ -1,8 +1,4 @@
-/* ICS3U1-04 CPT: Grocery Store Nightmare
- * 
- * Natalia Guevara
- * 
- * Mr. Conway
+/* 
  * 
  * -- DESCRIPTION --
  * "Grocery Store Nightmare" starts off with its title page, which stays on screen for 5 seconds before disappearing. This gives the player enough time to 
